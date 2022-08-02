@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+case1,,,,2022-08-02 13:39:46,2022-08-02 13:39:49,2.779s,PASSED
+,,,,,,,
+Test Cases/New Test Case,,,,2022-08-02 13:39:46,2022-08-02 13:39:49,2.580s,PASSED
+"startApplicationWithTitle(""C:\Program Files (x86)\Lime\Lime.exe"", ""New Project"")",,,,2022-08-02 13:39:47,2022-08-02 13:39:49,2.084s,PASSED
+closeApplication(),,,,2022-08-02 13:39:49,2022-08-02 13:39:49,0.221s,PASSED

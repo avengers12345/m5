@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="case1" time="2.779" tests="1" failures="0" errors="0">
+   <testsuite name="case1" tests="1" failures="0" errors="0" time="2.779" skipped="0" timestamp="2022-08-02 13:39:46" hostname="chawong - c-5L63P73.tsy-gemalto.com" id="Test Suites/case1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\chawong\\git\\m6\\Reports\\20220802_133932\\case1\\20220802_133932"/>
+         <property name="logFiles" value="C:\\Users\\chawong\\git\\m6\\Reports\\20220802_133932\\case1\\20220802_133932\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="chawong - c-5L63P73.tsy-gemalto.com"/>
+         <property name="hostAddress" value="10.160.1.2"/>
+         <property name="desiredCapabilities" value="{}"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="2.58" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[2022-08-02 13:39:46 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+2022-08-02 13:39:47 - [TEST_STEP][PASSED] - startApplicationWithTitle("C:\Program Files (x86)\Lime\Lime.exe", "New Project"): The application at location: C:\Program Files (x86)\Lime\Lime.exe started.
+
+2022-08-02 13:39:47 - [MESSAGE][INFO] - Starting application C:\Program Files (x86)\Lime\Lime.exe on the local machine at address http://127.0.0.1:4723
+
+2022-08-02 13:39:49 - [MESSAGE][PASSED] - The application at location: C:\Program Files (x86)\Lime\Lime.exe started.
+
+2022-08-02 13:39:49 - [TEST_STEP][PASSED] - closeApplication(): Fire Close event sucessfully.
+
+2022-08-02 13:39:49 - [MESSAGE][PASSED] - Fire Close event sucessfully.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-02 13:39:46 - [TEST_SUITE][PASSED] - case1: Test Cases/New Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
